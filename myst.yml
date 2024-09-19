@@ -1,0 +1,16 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 510f1529-b721-429c-821c-a71efa6675ee
+  title: GTDC Lit Review Process
+  description: How we do Literature Reviews at GivingTuesday
+  # keywords: []
+  authors: [Matt Price]
+  date: 2024-09-18
+  github: https://github.com/jupyter-book/mystmd-quickstart
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
